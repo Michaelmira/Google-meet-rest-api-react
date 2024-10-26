@@ -1,3 +1,9 @@
+npm install googleapis
+add to .env.  "GOOGLE_API_KEY"    =   "<GOOGLEAPIKEYHERE>"
+pipenv install google-api-python
+pipenv install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+
 # WebApp boilerplate with React JS and Flask API
 
 Build web applications using React.js for the front end and python/flask for your backend API.
